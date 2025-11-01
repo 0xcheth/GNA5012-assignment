@@ -1,6 +1,11 @@
 <img width="412" height="191" alt="image" src="https://github.com/user-attachments/assets/d04d9f60-9e0f-4119-a5cf-a0a2bf555ee3" /># GNA5012-assignment
 Dear Monash, The assignment critical files are encrypted and can only be accessed by the teaching staff who have my 128bit decryption key. Academic integrity has not been breached. This is just a means to host files and images for the capstone assignment markdown.
 
+<img width="1032" height="463" alt="image" src="https://github.com/user-attachments/assets/aff968eb-c807-4586-a193-ad75bcb4a02d" />
+
+
+
+
 Fastqc on untrimmed reads
 <img width="2230" height="1231" alt="image" src="https://github.com/user-attachments/assets/444cc856-ebd3-48de-97e5-2529ff6b0cc8" />
 <img width="2230" height="1231" alt="image" src="https://github.com/user-attachments/assets/63fb2a6a-c97c-4499-9cf8-e2d7e202bcdf" />
